@@ -1,0 +1,52 @@
+Question 1:
+
+Hello George,
+
+Thanks for reaching out.
+
+A record is an object you're going to add to your index and that is going to be searchable. A record could be a client (and his/her attributes) for example. 
+The concept of indexing refers to the action of pushing your records in an Algolia index. You can do it via our API or on your dashboard. It is not a one time operation since you can update, remove or delete the data you previously indexed.
+
+The custom ranking allows you to add business metrics to the relevance calculation in order to rank your search results in the most efficient way. For example you can add the popularity of an item to rank it higher in the results.
+
+I hope that I answered all your questions.
+Do not hesitate to reach me if you have any other interrogation about Algolia.
+
+Francois
+
+
+Question 2: 
+
+Hi Matt, 
+
+Sorry to hear that. I'll send your feedback to our product team. 
+By the way, you can also clear and delete your indexes via our API. This way you can easily automate these redundant tasks. Here are the references if you want to take a look or send it to your developers:
+- https://www.algolia.com/doc/api-reference/api-methods/delete-index/
+- https://www.algolia.com/doc/api-reference/api-methods/clear-objects/
+
+Do not hesitate to reach me if you hava any questions about our products.
+Francois
+
+Question 3:
+
+Hello Leo,
+
+Thanks for reaching out!
+
+Algolia is really easy to integrate. 
+The first step will be sending and manage your data. You can do it via our API or on the dashboard.
+After that you can configure the relevance in order to display the best results.
+Then you'll have to check if your website is running on one of our supported Platforms (Magento1, Magento2, Wordpress or Shopify). In that case you can use Algolia without having to code any line.
+Also, if your website is running on Rails, Django, Symphony or Laravel, we have out-of-the box integrations available here: https://www.algolia.com/doc/.
+Now you can build the search UI with our integrations or with one of our libraries.
+
+I hope that I answered your question.
+Do not hesitate to reach me if you have any other interrogation about Algolia.
+
+Francois
+
+
+
+
+
+
